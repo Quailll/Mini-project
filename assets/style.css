@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  position: fixed;
+}
+
+header section ul {
+  text-align: right;
+}
+
+header section ul li {
+  display: inline;
+}
+
+.center {
+  text-align: center;
+  display: block;
+}
+
